@@ -286,3 +286,8 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/TinyLoader/TinyLoader/glm
+/TinyLoader/TinyLoader/main.cpp
+/TinyLoader/TinyLoader/TinyLoader.vcxproj
+/TinyLoader/TinyLoader/TinyLoader.vcxproj.filters
+/TinyLoader/TinyLoader.sln
